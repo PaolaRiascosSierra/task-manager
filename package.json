@@ -1,0 +1,16 @@
+{
+  "name": "tasks-manager",
+  "version": "0.0.1",
+  "description": "App for manage daily tasks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^9.0.0"
+  }
+}
